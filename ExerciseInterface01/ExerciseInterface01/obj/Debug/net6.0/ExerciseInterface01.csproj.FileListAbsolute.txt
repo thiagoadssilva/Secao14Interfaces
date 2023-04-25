@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\bin\Debug\net6.0\ExerciseInterface01.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\bin\Debug\net6.0\ExerciseInterface01.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\bin\Debug\net6.0\ExerciseInterface01.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\bin\Debug\net6.0\ExerciseInterface01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\bin\Debug\net6.0\ExerciseInterface01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\refint\ExerciseInterface01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ExerciseInterface01.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseInterface01\ExerciseInterface01\obj\Debug\net6.0\ref\ExerciseInterface01.dll
