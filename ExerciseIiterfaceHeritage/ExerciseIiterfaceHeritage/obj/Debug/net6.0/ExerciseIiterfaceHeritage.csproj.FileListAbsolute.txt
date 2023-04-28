@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\bin\Debug\net6.0\ExerciseIiterfaceHeritage.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\bin\Debug\net6.0\ExerciseIiterfaceHeritage.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\bin\Debug\net6.0\ExerciseIiterfaceHeritage.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\bin\Debug\net6.0\ExerciseIiterfaceHeritage.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\bin\Debug\net6.0\ExerciseIiterfaceHeritage.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\refint\ExerciseIiterfaceHeritage.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ExerciseIiterfaceHeritage.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao14Interfaces\ExerciseIiterfaceHeritage\ExerciseIiterfaceHeritage\obj\Debug\net6.0\ref\ExerciseIiterfaceHeritage.dll
